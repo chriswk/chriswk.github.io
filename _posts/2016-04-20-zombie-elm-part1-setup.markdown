@@ -47,7 +47,7 @@ Webpack with webpack-elm-loader builds the bundle that I use in `src/index.html`
 
 ### What's next
 
-[Getting Elm to output the memo tiles]({ post_url 2016-04-20-zombie-elm-part2-tiles-output })
+[Getting Elm to output the memo tiles]({% post_url 2016-04-20-zombie-elm-part2-tiles-output %})
 
 [rtfeldman]:https://www.twitter.com/rtfeldman
 [noredink]:https://www.noredink.com/
