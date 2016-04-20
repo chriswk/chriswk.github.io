@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zombie Elm - Part 1 - the setup?
+title: Zombie Elm - Part 1 - the setup
 author: chriswk
 published: true
 date: 2016-04-20T10:17:40+0200

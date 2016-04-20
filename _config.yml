@@ -13,7 +13,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chriswk.github.io" # the base hostname & protocol for your site
 twitter_username: chriswk
 github_username:  chriswk
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-coffeescript
 permalink: /:year/:month/:title
 # Build settings
 markdown: kramdown
