@@ -47,10 +47,8 @@ Webpack with webpack-elm-loader builds the bundle that I use in `src/index.html`
 
 ### What's next
 
-[Getting Elm to output the memo tiles][zombie-elm-part2]
+[Getting Elm to output the memo tiles]({ post_url 2016-04-20-zombie-elm-part2-tiles-output })
 
 [rtfeldman]:https://www.twitter.com/rtfeldman
 [noredink]:https://www.noredink.com/
 [tree]:/images/2016-04-tree.png
-[zombie-elm]:https://github.com/chriswk/zombie-elm
-[zombie-elm-part2]:{ post_url 2016-04-20-zombie-elm-part2-tiles-output }
