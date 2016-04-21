@@ -20,3 +20,5 @@ gems:
 permalink: /:year/:month/:title
 # Build settings
 markdown: kramdown
+google_analytic_id: UA-76743436-1
+paginate: 5
