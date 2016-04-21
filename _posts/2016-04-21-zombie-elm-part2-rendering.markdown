@@ -110,12 +110,14 @@ Next spike will be getting our test structure setup. Types help, but I still wan
 
 So, none of the tiles in the example images had any image on them, so are we sure we got the right tiles.
 Instead of messing with the `newTile` function which I will keep using, I made a `revealedTile` function as well, it's simply the `newTile` function but with the revealed flag flipped to `True`
+
 {% highlight elm %}
 revealedTile : String -> Tile
 revealedTile name = Tile True name
 {% endhighlight %}
 
 Updating the view function to
+
 {% highlight elm %}
 boardHtml [[revealedTile "h1", revealedTile "h1", revealedTile "h2", revealedTile "h2"],
           [revealedTile "h3", revealedTile "h3", revealedTile "h4", revealedTile "h4"]]
