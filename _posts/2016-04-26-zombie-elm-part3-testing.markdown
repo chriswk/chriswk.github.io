@@ -64,7 +64,7 @@ all =
     suite
       "Shuffles"
       [ test "Always gives same result when initialised with same seed" (assertEqual shuffledModel.tiles shuffledModel2.tiles)
-      , test "When called again with new seed gives different result" (assertEqual shuffledModel.tiles nextModel.tiles)
+      , test "When called again with new seed gives different result" (assertNotEqual shuffledModel.tiles nextModel.tiles)
       ]
 {% endhighlight %}
 
