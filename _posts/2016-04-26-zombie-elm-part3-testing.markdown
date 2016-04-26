@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zombie Elm - Part 3 - Testing (and something extra)
+title: Zombie Elm - Part 3 - Testing
 author: chriswk
 published: true
 date: 2016-04-26T21:20:40+0200
