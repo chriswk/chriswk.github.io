@@ -30,7 +30,7 @@ Created C:\src\zombie-elm\tests\.gitignore
 
 {% endhighlight %}
 
-I then added a "test" target in `package.json`, allowing me to do "npm test" to run my tests.
+I then added a "test" target in `package.json`, allowing me to do "npm test" to run my tests. (It even worked on windows, as is visible from the console output)
 
 ### Testing the shuffleTiles method
 My assumptions
